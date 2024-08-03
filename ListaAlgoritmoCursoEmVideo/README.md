@@ -1,0 +1,1 @@
+[![Link do Lab](https://img.shields.io/badge/Link%20da%20Lista%20de%20Exercício-E94D5F?style=for-the-badge)](https://www.cursoemvideo.com/wp-content/uploads/2020/10/Exerci%CC%81cios-de-Algoritmos-1-100.pdf)
