@@ -6,4 +6,4 @@ Para acessar os exercícios criei partições utilizando pastas nomeadas com o n
 os nomes das linguagens com as resoluções.
 
 ### Linguagens Utilizadas
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Java-%23CC0000.svg?style=for-the-badge)
