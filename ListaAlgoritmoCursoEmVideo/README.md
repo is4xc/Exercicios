@@ -6,4 +6,4 @@
 
 # Link para o exercício
 
-[![](https://img.shields.io/badge/Clique%20Aqui!-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://mdtopdf.up.railway.app/convertPdf?url=<url>)
+[![](https://img.shields.io/badge/Clique%20Aqui!-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://www.cursoemvideo.com/wp-content/uploads/2020/10/Exerci%CC%81cios-de-Algoritmos-1-100.pdf)
